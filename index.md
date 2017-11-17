@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">  
+<html>  
+<head>  
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
 
-You can use the [editor on GitHub](https://github.com/shcho-db/host.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  <title>HKLifeMGW 설치 페이지</title>
+        <style>
+                li {margin: 10px;}
+        </style>
+</head>  
+<body>  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shcho-db/host.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>  
+이 페이지는 비공개 앱 테스트페이지 입니다.
+<font color="red">디바이스 권한의 없으면 HKLifeMGW를 설치할 수 없습니다.  </font>  
+<br/>  
+</p>  
+  
+  <ul>
+        <li><a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/73qofpsjavaskxl/app-thinning.plist">Install HKLifeMGW (1.2.9.1) App</a></li>
+  </ul>
+  
+  </ul>
+</body> </html  > 
