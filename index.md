@@ -21,5 +21,4 @@
         <li><a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/73qofpsjavaskxl/app-thinning.plist">Install HKLifeMGW (1.2.9.1) App</a></li>
   </ul>
   
-  </ul>
 </body> </html  > 
