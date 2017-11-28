@@ -29,6 +29,7 @@
 
   </ul>
 
+  <hr />
   
   <ul>
         <li><a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/ggr6rlpnk0t1ncr/HKLifeBK_plist.plist">Install HKLifeBK (1.1.0) App</a></li>
@@ -38,7 +39,7 @@
   </ul>
   <ul>
     
-   <li><a href="https://dl.dropboxusercontent.com/s/xtp11r0aed50klz/HKLifeBK.ipa">Download HKLifeMGW.ipa</a></li>
+   <li><a href="https://dl.dropboxusercontent.com/s/xtp11r0aed50klz/HKLifeBK.ipa">Download HKLifeBK.ipa</a></li>
  
 
   </ul>
