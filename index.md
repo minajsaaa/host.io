@@ -19,18 +19,30 @@
   
   <ul>
         <li><a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/73qofpsjavaskxl/app-thinning.plist">Install HKLifeMGW (1.2.9.1) App</a></li>
- 
- <li><a href="https://dl.dropboxusercontent.com/s/b7j9x0ikh3212kp/HKLifeMGW.ipa">Download HKLifeMGW.ipa</a></li>
- 
+
   </ul>
+  
+     
+  <ul>
+    <li><a href="https://dl.dropboxusercontent.com/s/b7j9x0ikh3212kp/HKLifeMGW.ipa">Download HKLifeMGW.ipa</a></li>
+ 
+
+  </ul>
+
   
   <ul>
         <li><a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/ggr6rlpnk0t1ncr/HKLifeBK_plist.plist">Install HKLifeBK (1.1.0) App</a></li>
  
-  <li><a href="https://dl.dropboxusercontent.com/s/xtp11r0aed50klz/HKLifeBK.ipa">Download HKLifeMGW.ipa</a></li>
  
  
   </ul>
+  <ul>
+    
+   <li><a href="https://dl.dropboxusercontent.com/s/xtp11r0aed50klz/HKLifeBK.ipa">Download HKLifeMGW.ipa</a></li>
+ 
+
+  </ul>
+  
   
   
 </body> </html  > 
